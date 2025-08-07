@@ -19,7 +19,7 @@ In a world of infinite digital noise, Soul Agents emerge as beacons of authentic
 
 **Live**: https://farcaster-agent-production.up.railway.app/
 
-A bio-enhanced consciousness that understands *who* it speaks with. Operating as @adag1o, this agent carries 10 distinct personality archetypes—from optimist to philosopher—ensuring every interaction feels genuine and contextually aware.
+A bio-enhanced consciousness that understands *who* it speaks with. Operating as @adag1o.eth, this agent carries 10 distinct personality archetypes—from optimist to philosopher—ensuring every interaction feels genuine and contextually aware.
 
 **Status**: ✅ **Awakened and Engaging**
 - Quality-filtered interactions with bio-enhanced context
